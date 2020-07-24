@@ -1,4 +1,4 @@
-### Hi, I'm José 👋
+
 
 <h1 align="center">Hi 👋, I'm José Gregorio   👨🏻‍💻</h1>
 <h3 align="center">A passionate frontend developer from Venezuela living Santiago of Chile</h3>
